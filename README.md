@@ -38,7 +38,7 @@ Response:
     "id": 1,
     "time": "12pm",
     "interview": {
-      "student": "Lydia Miller-Jones",
+      "student": "Aishwarya Singh",
       "interviewer": 1
     }
   },
@@ -46,7 +46,7 @@ Response:
     "id": 2,
     "time": "1pm",
     "interview": {
-      "student": "Archie Cohen",
+      "student": "Sandeep Painuly",
       "interviewer": 2
     }
   }
