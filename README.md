@@ -79,12 +79,12 @@ Response:
   "1": {
     "id": 1,
     "name": "Sonia",
-    "avatar": "https://i.imgur.com/LpaY82x.png"
+    "avatar": "https://i.imgur.com/twYrpay.jpg"
   },
   "2": {
     "id": 2,
-    "name": "Tori Malcolm",
-    "avatar": "https://i.imgur.com/Nmx0Qxo.png"
+    "name": "Anshi",
+    "avatar": "https://i.imgur.com/twYrpay.jpg"
   }
 }
 ```
