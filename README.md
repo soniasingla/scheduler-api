@@ -78,7 +78,7 @@ Response:
 {
   "1": {
     "id": 1,
-    "name": "Sylvia Palmer",
+    "name": "Sonia",
     "avatar": "https://i.imgur.com/LpaY82x.png"
   },
   "2": {
